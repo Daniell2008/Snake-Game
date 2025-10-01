@@ -8,6 +8,8 @@ from tkinter import *
 from tkinter import messagebox
 
 
+# Hallo
+
 CELL_SIZE = 90
 GRID_LENGTH = 9
 CANVAS_SIZE = 840
