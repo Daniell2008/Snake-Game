@@ -9,6 +9,7 @@ from tkinter import messagebox
 
 
 # Hallo
+# David ist schwul
 
 CELL_SIZE = 90
 GRID_LENGTH = 9
